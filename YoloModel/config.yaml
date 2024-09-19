@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/VehicleTracker/data
+train: images/train
+val: images/train
+
+names:
+    0: bus
+    1: label
