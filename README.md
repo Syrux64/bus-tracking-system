@@ -3,6 +3,7 @@ Using camera, bus images are captured and the label on the windshield is process
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/e3cf37dc-ef82-435d-914a-006985ddb46d)
+
 The bus number 85 is detected.
 
 ## Required dependencises
